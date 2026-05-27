@@ -47,7 +47,6 @@ Currently vibing somewhere, probably debugging something at 2 AM or vibe coding 
 ### 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-sreyashreddy221%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreyashreddy221@gmail.com)
-[![Website](https://img.shields.io/badge/Website-oncipher.com-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](http://oncipher.com)
 
 ---
 
